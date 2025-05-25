@@ -123,6 +123,11 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
       </a>
@@ -137,7 +142,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
       </a>
     </td>
-    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
