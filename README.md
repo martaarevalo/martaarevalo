@@ -142,7 +142,11 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
       </a>
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <a href="https://www.scrum.org/resources/what-is-scrum" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_logo.svg" alt="Scrum" width="40" height="40" />
+      </a>
+    </td>
     <td align="center"></td>
   </tr>
 </table>
