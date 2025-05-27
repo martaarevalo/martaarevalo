@@ -123,6 +123,11 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40" />
       </a>
