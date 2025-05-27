@@ -152,7 +152,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_logo.svg" alt="Scrum" width="40" height="40" />
       </a>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 </div>
